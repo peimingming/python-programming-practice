@@ -7,7 +7,7 @@
    
    - `Python3.11 -V` or `python3.12 -V` to use a specific version if more than one version got installed.
    
-   - try python in terminal: `python` or `python -i`.
+   - try python in terminal: `python3` or `python3 -i`.
    
      ```shell
      peimingming@peimingmings-MacBook-Pro ~ % python3 -i
