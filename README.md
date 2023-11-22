@@ -18,13 +18,13 @@
      ```
    
 2. IDEs.
-   1. Pycharm: https://www.jetbrains.com.cn/en-us/pycharm/download/?section=mac.
-      (download the PyCharm Community Edition and select .dmg (Apple Silicon) if you are using M1, M2 etc mac)
-      Sample code: [Practice/PycharmSample](Practice/PycharmSample).
-   2. VS Code: https://code.visualstudio.com/Download.
-      Sample code: [Practice/VSCodeSample](Practice/VSCodeSample).
-   3. Jupyterlab:
-      Sample code: [Practice/JupyterlabSample](Practice/JupyterlabSample).
+   1. Pycharm.
+      1. download link: https://www.jetbrains.com.cn/en-us/pycharm/download/?section=mac (download the PyCharm Community Edition and select .dmg (Apple Silicon) if you are using M1, M2 etc mac).
+      2. sample code: [Practice/PycharmSample](Practice/PycharmSample).
+   2. VS Code.
+      1. download link: https://code.visualstudio.com/Download.
+      2. sample code: [Practice/VSCodeSample](Practice/VSCodeSample).
+   3. Jupyterla (Sample code: [Practice/JupyterlabSample](Practice/JupyterlabSample)):
       1. install juppyterlab: `pip3.12 install --upgrade pip`.
       2. start jupyterlab: `jupyter lab`.
       3. try python in jupyterlab by selecting Notebook.
