@@ -1,8 +1,6 @@
 # Python Programming Practice
 
-<img align="left" src="Assets/python-logo-only.svg" alt="python-logo-only"/>
-
-
+![Python logo](Assets/python-logo-only.svg)
 
 ## Python Environment Setup
 
