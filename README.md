@@ -2,6 +2,7 @@
 
 <img align="left" src="Assets/python-logo-only.svg" alt="python-logo-only"/>
 
+
 ## Python Environment Setup
 
 1. Install python from https://www.python.org/downloads/.
